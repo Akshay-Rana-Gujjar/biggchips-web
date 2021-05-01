@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e5e4883.chunk.css",
+    "main.js": "/static/js/main.b2bd7e4d.chunk.js",
+    "main.js.map": "/static/js/main.b2bd7e4d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.49aa679a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.49aa679a.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.97b56581.chunk.js": "/static/js/2.97b56581.chunk.js",
+    "static/js/2.97b56581.chunk.js.map": "/static/js/2.97b56581.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8e5e4883.chunk.css.map": "/static/css/main.8e5e4883.chunk.css.map",
+    "static/js/2.97b56581.chunk.js.LICENSE.txt": "/static/js/2.97b56581.chunk.js.LICENSE.txt",
+    "static/media/aboutUs.d1f3363c.jpg": "/static/media/aboutUs.d1f3363c.jpg",
+    "static/media/almonds.21d9fd88.jpg": "/static/media/almonds.21d9fd88.jpg",
+    "static/media/chips.06046829.jpg": "/static/media/chips.06046829.jpg",
+    "static/media/facebook.8d51a556.png": "/static/media/facebook.8d51a556.png",
+    "static/media/instagram.ac32ec0a.png": "/static/media/instagram.ac32ec0a.png",
+    "static/media/popcorn.393ff3cc.jpg": "/static/media/popcorn.393ff3cc.jpg",
+    "static/media/twitter.67ad063d.png": "/static/media/twitter.67ad063d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49aa679a.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.97b56581.chunk.js",
+    "static/css/main.8e5e4883.chunk.css",
+    "static/js/main.b2bd7e4d.chunk.js"
+  ]
+}
